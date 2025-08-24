@@ -1,0 +1,132 @@
+{
+  "rules": [
+    {
+      "id": "1",
+      "category": "Developer Tools",
+      "keywords": [
+        "code",
+        "studio",
+        "dev",
+        "git",
+        "npm",
+        "node",
+        "python",
+        "java",
+        "ide",
+        "editor",
+        "compiler"
+      ],
+      "pathPatterns": [
+        "/Developer",
+        "/Applications/Developer",
+        "Program Files/Microsoft Visual Studio"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "2",
+      "category": "Productivity",
+      "keywords": [
+        "office",
+        "word",
+        "excel",
+        "powerpoint",
+        "notes",
+        "calendar",
+        "mail",
+        "outlook",
+        "teams"
+      ],
+      "pathPatterns": [
+        "/Applications/Office",
+        "Program Files/Microsoft Office"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "3",
+      "category": "Entertainment",
+      "keywords": [
+        "game",
+        "media",
+        "player",
+        "music",
+        "video",
+        "steam",
+        "spotify",
+        "netflix",
+        "youtube"
+      ],
+      "pathPatterns": [
+        "/Games",
+        "/Applications/Games",
+        "Program Files/Steam"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "4",
+      "category": "System Utilities",
+      "keywords": [
+        "system",
+        "utility",
+        "cleaner",
+        "monitor",
+        "backup",
+        "antivirus",
+        "firewall"
+      ],
+      "pathPatterns": [
+        "/System",
+        "/usr/bin",
+        "Program Files/Windows Defender"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "5",
+      "category": "Graphics & Design",
+      "keywords": [
+        "photoshop",
+        "illustrator",
+        "design",
+        "graphics",
+        "image",
+        "photo",
+        "sketch",
+        "figma"
+      ],
+      "pathPatterns": [
+        "/Applications/Adobe",
+        "Program Files/Adobe"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "6",
+      "category": "Communication",
+      "keywords": [
+        "chat",
+        "messenger",
+        "slack",
+        "discord",
+        "zoom",
+        "skype",
+        "telegram",
+        "whatsapp"
+      ],
+      "pathPatterns": [],
+      "enabled": true
+    },
+    {
+      "id": "1754538370718",
+      "category": "hhhfv",
+      "keywords": [
+        "enbjedhjj",
+        "v"
+      ],
+      "pathPatterns": [],
+      "enabled": true
+    }
+  ]
+}

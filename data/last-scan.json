@@ -1,0 +1,81 @@
+{
+  "totalFiles": 5,
+  "duplicateGroups": [
+    {
+      "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015",
+      "files": [
+        {
+          "path": "C:\\Users\\gowda\\OneDrive\\Downloads\\TestApps\\python-3.12.5 - Copy - Copy (3).exe",
+          "name": "python-3.12.5 - Copy - Copy (3).exe",
+          "size": 25202112,
+          "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015"
+        },
+        {
+          "path": "C:\\Users\\gowda\\OneDrive\\Downloads\\TestApps\\python-3.12.5 - Copy - Copy (4).exe",
+          "name": "python-3.12.5 - Copy - Copy (4).exe",
+          "size": 25202112,
+          "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015"
+        },
+        {
+          "path": "C:\\Users\\gowda\\OneDrive\\Downloads\\TestApps\\python-3.12.5 - Copy - Copy.exe",
+          "name": "python-3.12.5 - Copy - Copy.exe",
+          "size": 25202112,
+          "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015"
+        },
+        {
+          "path": "C:\\Users\\gowda\\OneDrive\\Downloads\\TestApps\\python-3.12.5 - Copy.exe",
+          "name": "python-3.12.5 - Copy.exe",
+          "size": 25202112,
+          "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015"
+        },
+        {
+          "path": "C:\\Users\\gowda\\OneDrive\\Downloads\\TestApps\\python-3.12.5.exe",
+          "name": "python-3.12.5.exe",
+          "size": 25202112,
+          "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015"
+        }
+      ],
+      "size": 25202112
+    }
+  ],
+  "categorizedFiles": {
+    "Developer Tools": [
+      {
+        "path": "C:\\Users\\gowda\\OneDrive\\Downloads\\TestApps\\python-3.12.5 - Copy - Copy (3).exe",
+        "name": "python-3.12.5 - Copy - Copy (3).exe",
+        "size": 25202112,
+        "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015",
+        "category": "Developer Tools"
+      },
+      {
+        "path": "C:\\Users\\gowda\\OneDrive\\Downloads\\TestApps\\python-3.12.5 - Copy - Copy (4).exe",
+        "name": "python-3.12.5 - Copy - Copy (4).exe",
+        "size": 25202112,
+        "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015",
+        "category": "Developer Tools"
+      },
+      {
+        "path": "C:\\Users\\gowda\\OneDrive\\Downloads\\TestApps\\python-3.12.5 - Copy - Copy.exe",
+        "name": "python-3.12.5 - Copy - Copy.exe",
+        "size": 25202112,
+        "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015",
+        "category": "Developer Tools"
+      },
+      {
+        "path": "C:\\Users\\gowda\\OneDrive\\Downloads\\TestApps\\python-3.12.5 - Copy.exe",
+        "name": "python-3.12.5 - Copy.exe",
+        "size": 25202112,
+        "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015",
+        "category": "Developer Tools"
+      },
+      {
+        "path": "C:\\Users\\gowda\\OneDrive\\Downloads\\TestApps\\python-3.12.5.exe",
+        "name": "python-3.12.5.exe",
+        "size": 25202112,
+        "hash": "764d8d18a82cc69b947ed08194c76cfe78dbc9d3a07960a08f0edb9081fd4015",
+        "category": "Developer Tools"
+      }
+    ]
+  },
+  "scanTime": 0.775
+}

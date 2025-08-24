@@ -1,0 +1,14 @@
+{
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/api/logs/route": "app/api/logs/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/rules/route": "app/api/rules/route.js",
+  "/api/stats/route": "app/api/stats/route.js",
+  "/api/analytics/route": "app/api/analytics/route.js",
+  "/api/policy-check/route": "app/api/policy-check/route.js",
+  "/api/user-tags/route": "app/api/user-tags/route.js",
+  "/api/smart-suggestions/route": "app/api/smart-suggestions/route.js",
+  "/api/auth/register/route": "app/api/auth/register/route.js",
+  "/api/logs/clear/route": "app/api/logs/clear/route.js"
+}

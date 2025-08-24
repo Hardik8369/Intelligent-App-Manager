@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "6d685386-3e46-4ad2-8411-ee518b6f8239",
+      "username": "hardik",
+      "email": "gowdahardik14@gmail.com",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "role": "user",
+      "createdAt": "2025-08-06T23:05:01.825Z"
+    },
+    {
+      "id": "020de45d-7c6c-431a-a023-4a9807352c4a",
+      "username": "jjh",
+      "email": "hghgg@gmail.com",
+      "password": "6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918",
+      "role": "user",
+      "createdAt": "2025-08-08T13:50:01.217Z"
+    }
+  ]
+}

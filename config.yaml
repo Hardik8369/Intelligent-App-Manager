@@ -1,0 +1,48 @@
+# Intelligent Application Management System Configuration
+
+# Source directory to scan for applications
+source_directory: "."
+
+# Output directory for organized files
+output_directory: "./output"
+
+# Path to categorization rules file
+rules_file: "./rules.json"
+
+# Perform dry run without making actual changes
+dry_run: false
+
+# Logging level (DEBUG, INFO, WARN, ERROR)
+log_level: "INFO"
+
+# File extensions to consider as applications
+app_extensions:
+  - ".exe"
+  - ".msi"
+  - ".apk"
+  - ".sh"
+  - ".app"
+  - ".deb"
+  - ".rpm"
+  - ".dmg"
+  - ".pkg"
+  - ".appx"
+  - ".snap"
+
+# Maximum file size to process (in MB, 0 = no limit)
+max_file_size: 0
+
+# Enable parallel processing
+parallel_processing: true
+
+# Number of worker threads (0 = auto-detect)
+worker_threads: 0
+
+# Hash algorithm (sha256, md5)
+hash_algorithm: "sha256"
+
+# Backup deleted files before removal
+backup_before_delete: true
+
+# Backup directory
+backup_directory: "./backup"
